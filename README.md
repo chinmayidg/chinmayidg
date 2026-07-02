@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Chinmayi D G<br>A passionate developer from India 🇮🇳 <br><br>🎓 Electronics & Communication Engineering (ECE) Graduate<br><br>🌱 I’m currently learning AIML and Data Analytics<br><br>📑 Check out my resume here - My Resume(https://drive.google.com/file/d/1sUYu-bRjdxNRXmsoZq4S7kYmPxUols1I/view?usp=drivesdk)<br><br>💻 All of my projects are available on GitHub<br><br>💡 Ask me about Python, SQL and Web Technologies<br><br>📫 Reach out to me at chinmayidg08@gmail.com<br><br>
+Hi 👋, I'm Chinmayi D G<br>A passionate developer from India 🇮🇳 <br><br>🎓 Electronics & Communication Engineering (ECE) Graduate<br><br>🌱 I’m currently learning AIML and Data Analytics<br><br>📑 Check out my resume here - My Resume<br><br>💻 All of my projects are available on GitHub<br><br>💡 Ask me about Python, SQL and Web Technologies<br><br>📫 Reach out to me at chinmayidg08@gmail.com<br><br>
 
 
 ## 🌐 Socials:
